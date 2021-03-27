@@ -47,7 +47,7 @@
 
                     </div>
                     <div class="col-lg-6 pt-5 pt-lg-0">
-                        <img src="img/about.jpg" alt="">
+                        </assets/images src="/assets/images/about.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                     <div class="ts-item">
                         <div class="row">
                             <div class="col-md-3">
-                                <div class="ts-author-pic set-bg" data-setbg="img/member/mother_mary.jpg"></div>
+                                <div class="ts-author-pic set-bg" data-setbg="/assets/images/member/mother_mary.jpg"></div>
                             </div>
                             <div class="col-md-9 ts-text">
                                 <p>The Blessed Mother is our institution Patroness, mother and educator. She is the one
@@ -78,7 +78,7 @@
                     <div class="ts-item">
                         <div class="row">
                             <div class="col-md-3">
-                                <div class="ts-author-pic set-bg" data-setbg="img/member/Fr.Joseph_Kentenich.jpg"></div>
+                                <div class="ts-author-pic set-bg" data-setbg="/assets/images/member/Fr.Joseph_Kentenich.jpg"></div>
                             </div>
                             <div class="col-md-9 ts-text">
                                 <p style="overloap">“ Fr.Joseph Kentenich was a theologian, educator, prophet and
@@ -98,7 +98,7 @@
                     <div class="ts-item">
                         <div class="row">
                             <div class="col-md-3">
-                                <div class="ts-author-pic set-bg" data-setbg="img/member/Nirmala_Sister.jpg"></div>
+                                <div class="ts-author-pic set-bg" data-setbg="/assets/images/member/Nirmala_Sister.jpg"></div>
                             </div>
                             <div class="col-md-9 ts-text">
                                 <p>“ I want to let you know that I am very absolutely delighted with the course in every
@@ -126,7 +126,7 @@
                 <div class="row">
                     <div class="col-md-6 col-lg-3">
                         <div class="member">
-                            <div class="member-pic set-bg" data-setbg="img/ssmpucfaculty/Sister.jpg">
+                            <div class="member-pic set-bg" data-setbg="/assets/images/ssmpucfaculty/Sister.jpg">
                                 <div class="member-social">
                                     <a href=""><i class="fa fa-facebook"></i></a>
                                     <a href=""><i class="fa fa-twitter"></i></a>
@@ -139,7 +139,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="member">
-                            <div class="member-pic set-bg" data-setbg="img/member/Josephin_Vadakkan.jpg">
+                            <div class="member-pic set-bg" data-setbg="/assets/images/member/Josephin_Vadakkan.jpg">
                                 <div class="member-social">
                                     <a href=""><i class="fa fa-facebook"></i></a>
                                     <a href=""><i class="fa fa-twitter"></i></a>
@@ -152,7 +152,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="member">
-                            <div class="member-pic set-bg" data-setbg="img/member/Pasca_Sister.jpg">
+                            <div class="member-pic set-bg" data-setbg="/assets/images/member/Pasca_Sister.jpg">
                                 <div class="member-social">
                                     <a href=""><i class="fa fa-facebook"></i></a>
                                     <a href=""><i class="fa fa-twitter"></i></a>
@@ -165,7 +165,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <div class="member">
-                            <div class="member-pic set-bg" data-setbg="img/member/Vandana_Sister.jpg">
+                            <div class="member-pic set-bg" data-setbg="/assets/images/member/Vandana_Sister.jpg">
                                 <div class="member-social">
                                     <a href=""><i class="fa fa-facebook"></i></a>
                                     <a href=""><i class="fa fa-twitter"></i></a>

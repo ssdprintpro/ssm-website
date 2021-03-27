@@ -83,4 +83,11 @@
     </nav>
 
     <!-- navigation end -->
+
+    <?php 
+
+include $_SERVER['DOCUMENT_ROOT'] . '/templates/notificationLine.html';
+
+?>
 </div>
+

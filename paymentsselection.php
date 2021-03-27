@@ -19,7 +19,7 @@
         <header class="header-section" id="header" style="padding:5px 0px;background-color:white">
             <div class="container">
 
-                <a href="index.php" class="site-logo" style="padding:0"><img src="/img/Logos/SSM.png" width="200px"
+                <a href="index.php" class="site-logo" style="padding:0"><img src="/assets/logo/SSM.png" width="200px"
                         alt="" srcset=""></a>
                 <div class="nav-switch">
                     <i class="fa fa-bars"></i>

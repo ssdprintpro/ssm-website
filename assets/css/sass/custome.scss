@@ -452,3 +452,26 @@ transition: all .02s linear;
         transform: scale(1.05);
 color: yellow;
 }
+
+.marquee {
+  background-color:yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /*font-weight: bold;*/
+}
+
+.marquee p{
+  margin: 8px 0;
+  margin-right: 50px;
+  display: inline-block;
+}
+.marquee p a{
+  margin: 0;
+  color: rgb(0, 47, 255);
+  text-decoration: none;
+}
+
+.marquee span{
+  color: red;
+}

@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-md-3 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/member/Josephin_Vadakkan.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/member/Josephin_Vadakkan.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
