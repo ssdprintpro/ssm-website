@@ -13,7 +13,7 @@
 			<div class="row">
 				<div class="col-md-12 col-lg-12">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/member/Josephin_Vadakkan.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/member/Josephin_Vadakkan.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -36,7 +36,7 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/ROSHAN_FERNANDES.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/ROSHAN_FERNANDES.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -50,7 +50,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/GAYATHRI_DEVI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/GAYATHRI_DEVI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -64,7 +64,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/NALINA_N.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NALINA_N.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -78,7 +78,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/RENUKA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/RENUKA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -94,7 +94,7 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-					<div class="member-pic set-bg" data-setbg="img/SSMHS/MEENAKSHI.jpg">
+					<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MEENAKSHI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -108,7 +108,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/LILLY_FERNANDES.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/LILLY_FERNANDES.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -122,7 +122,7 @@
 				</div>
                 <div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/CHETHANA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/CHETHANA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -136,7 +136,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MINI_K_SAM.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MINI_K_SAM.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -150,7 +150,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/NANDINI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NANDINI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -164,7 +164,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-					<div class="member-pic set-bg" data-setbg="img/SSMHS/NANCY.jpg">
+					<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NANCY.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -178,7 +178,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/ANNET_PRINCY.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/ANNET_PRINCY.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -192,7 +192,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/HEMALATHA_H_R.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/HEMALATHA_H_R.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -206,7 +206,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/LEELAVATHY.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/LEELAVATHY.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -220,7 +220,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SHILPA_B.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SHILPA_B.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -234,7 +234,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SOPHIA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SOPHIA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -248,7 +248,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SWAPNA_JOSE.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SWAPNA_JOSE.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -262,7 +262,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MRS.ASHA.K.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MRS.ASHA.K.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -276,7 +276,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MALLESHWARI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MALLESHWARI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -300,7 +300,7 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SAVITHA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SAVITHA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -314,7 +314,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/LEELA_K.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/LEELA_K.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -328,7 +328,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/PADMAVATHAMMA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/PADMAVATHAMMA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -342,7 +342,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/PUSHPA_G.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/PUSHPA_G.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -356,7 +356,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SHUBHARANI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SHUBHARANI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -370,7 +370,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SOWMYA_SOMAN.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SOWMYA_SOMAN.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -384,7 +384,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MARTHA_JOHN.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MARTHA_JOHN.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -398,7 +398,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/LEELA_K.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/LEELA_K.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -412,7 +412,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/NIRMALA_M_S.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NIRMALA_M_S.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -426,7 +426,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/NALINA_G.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NALINA_G.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -440,7 +440,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/JIMCY_C_L.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/JIMCY_C_L.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -454,7 +454,7 @@
 				</div>
 				   <div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/HEMALATHA_T_R.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/HEMALATHA_T_R.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -468,7 +468,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/CECILIA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/CECILIA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -482,7 +482,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/ASHA_K.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/ASHA_K.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -496,7 +496,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/NAGABHUSHAN_M_G.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NAGABHUSHAN_M_G.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -510,7 +510,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/ASHA_L.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/ASHA_L.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -524,7 +524,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MANJULA_R_E.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MANJULA_R_E.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -538,7 +538,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/GEETHA_S_ACHAR.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/GEETHA_S_ACHAR.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -552,7 +552,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SOWMYA_K_P.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SOWMYA_K_P.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -566,7 +566,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SWETHA_M_G.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SWETHA_M_G.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -580,7 +580,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/PREEJA_A_K.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/PREEJA_A_K.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -594,7 +594,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SANDHYA_M_S.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SANDHYA_M_S.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -608,7 +608,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/ASHA_TRIVENI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/ASHA_TRIVENI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -622,7 +622,7 @@
 						</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/PINKY.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/PINKY.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -636,7 +636,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/JAYARANI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/JAYARANI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -650,7 +650,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MINI_A_T.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MINI_A_T.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -664,7 +664,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SHALINI.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SHALINI.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -678,7 +678,7 @@
 						</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SUNI_THOMAS.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SUNI_THOMAS.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -692,7 +692,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MARTHA_JOHN.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MARTHA_JOHN.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -706,7 +706,7 @@
 						</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/DEEPA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/DEEPA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -720,7 +720,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/JESA_A_K.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/JESA_A_K.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -734,7 +734,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MANJULA_P.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MANJULA_P.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -748,7 +748,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/LOKAMATHA.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/LOKAMATHA.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -772,7 +772,7 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/AMAR_BABU.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/AMAR_BABU.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -785,7 +785,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-							<div class="member-pic set-bg" data-setbg="img/SSMHS/MANJUNATH_J.jpg">
+							<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MANJUNATH_J.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -798,7 +798,7 @@
 				</div>
 					<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/NAGABHUSHAN.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/NAGABHUSHAN.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -811,7 +811,7 @@
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-							<div class="member-pic set-bg" data-setbg="img/SSMHS/MEGHA_P_P.jpg">
+							<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MEGHA_P_P.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -834,7 +834,7 @@
 			<div class="row">
 				<div class="col-md-12 col-lg-12">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/SR.M.CLARA_ANTONY.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/SR.M.CLARA_ANTONY.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -857,7 +857,7 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MRS.ASHWINI.K.T.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MRS.ASHWINI.K.T.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
@@ -870,7 +870,7 @@
 					</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="member">
-						<div class="member-pic set-bg" data-setbg="img/SSMHS/MRS.SOBIA_THOMAS.jpg">
+						<div class="member-pic set-bg" data-setbg="/assets/images/SSMHS/MRS.SOBIA_THOMAS.jpg">
 							<div class="member-social">
 								<a href=""><i class="fa fa-facebook"></i></a>
 								<a href=""><i class="fa fa-twitter"></i></a>
