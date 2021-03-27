@@ -3,6 +3,7 @@
 
 define('EVENT_MAIN_IMAGE_FOLDER','/images/events/');
 define('EVENT_GALLERY_FOLDER','/images/event-gallery/');
+define('INSTITUTE_GALLERY_PATH',$_SERVER['DOCUMENT_ROOT'].'/images/institute-gallery/');
 
 $inst_arr = ['ssmpu', 'ssmphs', 'ssmns', 'ssmps'];
 
