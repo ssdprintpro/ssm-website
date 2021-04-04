@@ -30,12 +30,19 @@ if (validate($_POST, ['institute', 'title', 'description', 'date', 'time', 'uplo
         exit();
     }
 
-    $image->set_dest_path($_SERVER['DOCUMENT_ROOT'] . EVENT_MAIN_IMAGE_FOLDER);
+
+$event_upload_img_src = $_SERVER['DOCUMENT_ROOT'] . EVENT_MAIN_IMAGE_FOLDER;
+
+    if(! file_exists($event_upload_img_src)) {
+        mkdir($event_upload_img_src, 0777, true);
+    }
+
+    $image->set_dest_path($event_upload_img_src);
 
     $upload_fname = $image->upload_image();
 
     if (!$upload_fname) {
-        echo alert_redirect('Your image could not be uploaded please try again after some time', $admin_event_path);
+        // echo alert_redirect('Your image could not be uploaded please try again after some time', $admin_event_path);
         exit();
     }
     $con = getCon();
@@ -47,7 +54,7 @@ if (validate($_POST, ['institute', 'title', 'description', 'date', 'time', 'uplo
     } else {
         $uploded_image_path = $image->get_dest_path() . '$upload_fname';
         unlink($uploded_image_path);
-        echo alert_redirect('Your event could not be uploaded please try again', $admin_event_path);
+        // echo alert_redirect('Your event could not be uploaded please try again', $admin_event_path);
         exit();
     }
 
@@ -88,7 +95,19 @@ if (validate($_POST, ['upload_event_gallery','event_id'])) {
             $error_count++;
             continue;
         }
-        $image->set_dest_path($_SERVER['DOCUMENT_ROOT'] . EVENT_GALLERY_FOLDER);
+
+
+        
+$event_gallery_upload_img_src = $_SERVER['DOCUMENT_ROOT'] . EVENT_GALLERY_FOLDER;
+
+if(! file_exists($event_gallery_upload_img_src)) {
+    mkdir($event_gallery_upload_img_src, 0777, true);
+}
+
+
+        $image->set_dest_path($event_gallery_upload_img_src);
+
+        
         $upload_fname = $image->upload_image();
         if (!$upload_fname) {
             $error_count++;
