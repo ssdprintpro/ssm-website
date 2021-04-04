@@ -5,7 +5,7 @@ include './main.php';
 if(validate($_POST, ['user-name', 'password', 'admin-login'])){
     $username = $_POST['user-name'];
     $passs = $_POST['password'];
-
+    print_r($_POST);
     $passs = md5($passs);
 
     $con = getCon();
@@ -19,7 +19,7 @@ if(validate($_POST, ['user-name', 'password', 'admin-login'])){
         $_SESSION['user'] = 'admin';
         echo '<script> window.location = "/admin/admin-pannel.php"; </script>';
 
-    }else{
+    }else{  
         echo '<script> window.alert(" Username or password in wrong "); </script>';
         echo '<script> window.location = "/admin/login.php"; </script>';
 

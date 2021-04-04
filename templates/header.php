@@ -31,12 +31,72 @@
                 <i class="fa fa-bars"></i>
             </div>
             <div class="header-info" id='cn'>
+
+
+                <?php  
+                if($inst == 'ssmphs') {
+                    ?>  
+
+                <div class="hf-item" id="cnt">
+                    <p><span>Email:</span>stmaryshs@rediffmail.com</p>
+                </div>
+                <div class=" hf-item" id="cnt">
+                    <p><span>Contact:</span>+91 72046 45643</p>
+                </div>
+
+                    <?php
+                } 
+                else if($inst == 'ssmpu') {
+                    ?>  
+
+                <div class="hf-item" id="cnt">
+                    <p><span>Email:</span>ssmpucollege594@gmail.com</p>
+                </div>
+                <div class=" hf-item" id="cnt">
+                    <p><span>Contact:</span>+91 97427 84706</p>
+                </div>
+
+                    <?php
+                } 
+                else if($inst == 'ssmps') {
+                    ?>  
+
+                <div class="hf-item" id="cnt">
+                    <p><span>Email:</span>ssmpublicschoolb@gmail.com</p>
+                </div>
+                <div class=" hf-item" id="cnt">
+                    <p><span>Contact:</span>+91 89719 04571</p>
+                </div>
+
+                    <?php
+                } 
+                else if($inst == 'ssmns') {
+                    ?>  
+
+                <div class="hf-item" id="cnt">
+                    <p><span>Email:</span>ssmpublicschoolb@gmail.com</p>
+                </div>
+                <div class=" hf-item" id="cnt">
+                    <p><span>Contact:</span>+91 96635 34020</p>
+                </div>
+
+                    <?php
+                } 
+                else {
+                    ?>  
+
                 <div class="hf-item" id="cnt">
                     <p><span>Email:</span>info@schoenstatt.co.in</p>
                 </div>
                 <div class=" hf-item" id="cnt">
                     <p><span>Contact:</span>+91 97427 84706</p>
                 </div>
+
+                    <?php
+                }
+
+
+                ?>
 
                 <div class="hf-item butut" id="but">
                     <button class="btn btn-warning text-white applynow">Apply now</button>
@@ -66,13 +126,21 @@
                     </div>
                 </li>
 
-                <li class="<?php if($page == 'about') echo 'active'; ?>"><a href="/about.php<?php echo $link_name; ?>">About Us</a></li>
-                <li class="<?php if($page == 'events') echo 'active'; ?>"><a href="/events.php<?php echo $link_id; ?>">Event</a></li>
+                <li class="<?php if($page == 'about') echo 'active'; ?>">
+                <a href="/about.php<?php echo $link_name; ?>">About Us</a>
+                </li>
+                <li class="<?php if($page == 'events') echo 'active'; ?>">
+                <a href="/events.php<?php echo $link_id; ?>">Event</a>
+                </li>
                 <?php  
 
                 if($inst != ''){ ?>
-                    <li class="<?php if($page == 'academics') echo 'active'; ?>"><a href="/index.php<?php echo $link_name; ?>" onclick = "scrollToBlock()" data-scrollto="course">Academics</a></li>
-                    <li class="<?php if($page == 'faculty') echo 'active'; ?>"><a href="/faculty.php<?php echo $link_name; ?>">Faculty</a></li>
+                    <li class="<?php if($page == 'academics') echo 'active'; ?>">
+                    <a href="/index.php<?php echo $link_name; ?>#course">Academics</a>
+                    </li>
+                    <li class="<?php if($page == 'faculty') echo 'active'; ?>">
+                    <a href="/faculty.php<?php echo $link_name; ?>">Faculty</a>
+                    </li>
                 <?php }
 
                 ?>

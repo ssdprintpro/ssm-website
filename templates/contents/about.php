@@ -46,8 +46,11 @@
                             manners and habit of respect, love, regularity and human dignity<br>
 
                     </div>
-                    <div class="col-lg-6 pt-5 pt-lg-0">
-                        </assets/images src="/assets/images/about.jpg" alt="">
+                    <div class="col-lg-6 pt-5 pt-lg-0" style="background-image: url('/assets/images/about.jpg');    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: cover;
+                    min-height: 400px;">
+
                     </div>
                 </div>
             </div>
